@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdminPanel/AdminPanel.iml" filepath="$PROJECT_DIR$/AdminPanel/AdminPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GEO copy.iml" filepath="$PROJECT_DIR$/GEO copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MopubManagerLibrary/MopubManagerLibrary.iml" filepath="$PROJECT_DIR$/MopubManagerLibrary/MopubManagerLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
